@@ -1,0 +1,25 @@
+.weather-display {
+	display: flex;
+	background-color: #1a1a1a;
+	margin: 10px 0px;
+	border-radius: 8px;
+	width: 380px;
+	align-items: center;
+	margin: 20px auto;
+
+}
+
+.city {
+	font-size: 20px;
+	font-weight: bold;
+}
+
+.temp {
+	font-size: 25px;
+	color: #E96E50;
+}
+
+.content {
+	display: flex;
+	flex-direction: column;
+}
